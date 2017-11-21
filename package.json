@@ -1,0 +1,15 @@
+{
+  "name": "bigshaqbot",
+  "version": "1.0.0",
+  "description": "Yeh Yeh, Big Shag!",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian (ShoarmaKarma)",
+  "license": "ISC",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^2.4.0"
+  }
+}
